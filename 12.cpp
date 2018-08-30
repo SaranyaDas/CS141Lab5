@@ -1,9 +1,14 @@
+//Library
 #include <iostream>
 using namespace std;
+//Finding the number of days in given month
 int main() {
 int x;
+cout <<"To find the number of days in a month."<< endl;
+//Asking for input
 cout <<"Enter month number: "<< endl;
 cin >> x;
+//Displaying result
 cout <<"The month has ";
 if (x==2) {
 cout <<"28 or 29 days, depending on the year."<< endl;
