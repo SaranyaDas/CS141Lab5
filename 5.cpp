@@ -6,7 +6,7 @@ int main() {
 int a;
 cout <<"To find out whether a number is odd or even."<< endl;
 //Asking for input
-cout <<"Enter a number: "<< endl;
+cout <<"Enter a number: ";
 cin >> a;
 int mod = a%2;
 //Displaying result
