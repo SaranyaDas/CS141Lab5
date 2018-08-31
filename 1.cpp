@@ -6,7 +6,7 @@ int main() {
 int a, b;
 cout <<"To find the maximum between two numbers."<< endl;
 //Asking for input
-cout <<"Enter two numbers: "<< endl;
+cout <<"Enter two numbers: ";
 cin >> a >> b;
 //Displaying result
 cout <<"The maximum is ";
