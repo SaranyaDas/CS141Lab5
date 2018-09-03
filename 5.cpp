@@ -10,7 +10,7 @@ cout <<"Enter a number: ";
 cin >> a;
 int mod = a%2;
 //Displaying result
-cout <<"The number is ";
+cout <<"The number "<< a << " is ";
 if (mod==0) {
 cout <<"even."<< endl;
 }
